@@ -209,7 +209,7 @@ input[type="search"] {
 
 /* SIDE-CONTENT */
 .announcement-side-content .announcement-box {
-    height: 120px;
+    height: 140px;
     color: var(--text-color-primary);
     font-size: 15px;
 }
